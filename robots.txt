@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://kahtoemies.supersplashusa.com/sitemap.xml
